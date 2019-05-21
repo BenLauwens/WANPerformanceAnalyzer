@@ -1,0 +1,4 @@
+name = "WANPerformanceAnalyzer"
+uuid = "dd1a9092-7c00-11e9-118b-694554b9bfd5"
+authors = ["Ben Lauwens <ben.lauwens@gmail.com>"]
+version = "0.1.0"
