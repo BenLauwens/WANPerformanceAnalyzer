@@ -1,5 +1,7 @@
 module WANPerformanceAnalyzer
 
-greet() = print("Hello World!")
+export Trace, Workload, rate, drate
 
-end # module
+include("traces.jl")
+
+end
